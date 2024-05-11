@@ -7,7 +7,7 @@ Recently, many therapists have reached out to ask me how I transitioned into non
 
 ## Burnout
 
-Covid hit in the beginning of my second year as an occupational therapist and most likely accelerated my feelings of burnout. There are things that I love about clinical practice, but my dislikes with clincial practice started to become overpowering.
+Covid hit in the beginning of my second year as an occupational therapist, which most likely accelerated my feelings of burnout. There are things that I loved about clinical practice, but my dislikes started to weigh on me.
 
 **The Good**
 
@@ -28,36 +28,34 @@ Covid hit in the beginning of my second year as an occupational therapist and mo
 
 **Aspireship**
 
-This is the program that initiated my non-clinical journey. I bought this subscription 7 months before landing my first internship.
+This is the program that initiated my non-clinical journey. I bought this subscription 7 months before landing my first internship. 
 
-The base subscription grants you access to a ton of foundational courses for only $180. Their “Customer Success Foundations” courseprovides you with a certificate after passing a test. 
+I recommend this subscription early in your journey to learn about different professions in the tech realm, technology terms, and SaaS processes. 
 
-I recommend this subscription early in your journey to learn technology terms, SaaS processes, and to learn about different professions in the tech realm. 
-
-This course was unable to help me translate my clinical skills into non-clinical terms, which is why I decided to seek addiitonal assistance.
+This course was unable to help me translate my clinical skills into non-clinical terms, which is why I decided to seek additonal assistance.
 
 **Collective Coaching**
 
 This is the second program I joined, 3 months before landing my first internship. 
 
-This course is run by 2 occupational therapists who transitioned into tech, so it is truly geared towards clinicians. It is important for therapists who are looking for a coaching program to seek assistance from people who understand your skills, which is why I recommend this program for therapists who are just getting started on their journey to non clinical work.
+This course is run by 2 occupational therapists who transitioned into tech, so it is truly geared towards clinicians. It is important for therapists who are looking for a coaching program. They understand your journey and your skills, which is why I recommend this program for therapists who are just getting started on their journey.
 
 This program directly connected me to my internship, which turned into my first digital health job.
 
 
 **Carly Agar Customer Success Intensive** 
 
-This is the most recent program I joined, after landing my first internship. This program has helped me improve my resume and land interviews. The program is tailored towards customer success, but I beleieve the skills you learn about technical resumes and interviewing can be used for any job.
+I joined this program after landing my first internship. This program has helped me improve my resume and land interviews. I beleieve the skills you learn about technical resumes and interviewing can be used for any job, not just customer success.
 
 Though she is not a therapist, Carly has helped many PT's and OT’s land jobs in tech. I truly believe she understands our job description, and how to display the skills we already have to successfully land jobs.
 
 **Moving Forward**
 
-It’s important to keep learning even after you get your big break. There is so much to learn, and there are so many cheap ways to do it. I continue to leverage my network to ask their opinions on whether or not I am taking the correct approach. Also, I continue to take courses on Udemy to upskill.
+There is still so much to learn, and there are so many cheap ways to do it. I continue to leverage my network to ask their opinions, and I continue to take courses on Udemy to upskill.
 
 
 ## Summary
-As you can see, it may take an investment to successfully make this transition. I hope you’re able to choose which of these programs works best for you, and avoid spending money on programs that do not.
+As you can see, it may take an investment to successfully make this transition. I hope you are able to choose which of these programs works best for you, and avoid spending money on programs that do not.
 
 Talk Soon, 
 
