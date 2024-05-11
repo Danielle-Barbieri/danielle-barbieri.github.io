@@ -6,7 +6,7 @@ theme = 'hugo-creative-portfolio-theme'
 [params]
 # Style options: default (pink), blue, green, pink, red, sea, violet
 # Use custom.css for your custom styling
-style = "default"
+style = "sea"
 description = "Danielle Barbieri's Blog"
 copyright = "&copy;2024 Danielle Barbieri"
 sidebarAbout = [
