@@ -7,11 +7,10 @@ theme = 'hugo-creative-portfolio-theme'
 # Style options: default (pink), blue, green, pink, red, sea, violet
 # Use custom.css for your custom styling
 style = "default"
-description = "Describe your website"
-copyright = "&copy;2016 Your name or company"
+description = "Danielle Barbieri's Blog"
+copyright = "&copy;2024 Danielle Barbieri"
 sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London.",
+    "SITE UNDER CONSTRUCTIONS",
 ]
 # Contact page
 # Since this template is static, the contact form uses www.formspree.io as a
@@ -38,27 +37,27 @@ email = "you@yoursite.com"
 
 # Nav links in the side bar
 [[params.navlinks]]
-name = "Home"
-url = "posts/"
+name = "About"
+url = "about/"
 home = true
 
 [[params.navlinks]]
-name = "About"
-url = "about/"
+name = "OT Journey"
+url = "ot-journey/"
 
-[[params.navlinks]]
-name = "Get in touch"
-url = "contact/"
+# [[params.navlinks]]
+# name = "Tech"
+# url = "tech/"
 
 [params.social]
-facebook = "full page or profile url in facebook"
-googleplus = "full profile url in googleplus"
-email = "email@example.com"
-twitter = "full profile url in twitter"
-linkedin = "full profile url in linkedin"
-stackoverflow = "full profile url in stackoverflow"
-instagram = "full profile url in instagram"
-github = "full profile url in github"
-gitlab = "full profile url in gitlab"
-youtube = "full profile url in youtube"
-whatsapp = "wa.me service link"
+# facebook = "full page or profile url in facebook"
+# googleplus = "full profile url in googleplus"
+# email = "email@example.com"
+# twitter = "full profile url in twitter"
+# linkedin = "full profile url in linkedin"
+# stackoverflow = "full profile url in stackoverflow"
+# instagram = "full profile url in instagram"
+# github = "full profile url in github"
+# gitlab = "full profile url in gitlab"
+# youtube = "full profile url in youtube"
+# whatsapp = "wa.me service link"

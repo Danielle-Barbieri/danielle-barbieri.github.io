@@ -1,9 +1,8 @@
 +++
-title = 'OT to Digital Health Journey'
+title = 'My OT to Digital Health Journey'
 date = 2024-05-10T19:44:12-04:00
 draft = false
 +++
-# My OT to Digital Health Journey
 Recently, many therapists have reached out to ask me how I transitioned into non-clinical work. My intention with this post is to list my journey. That way, when we do talk, we can skip my background and jump into your questions.
 
 ## Burnout
