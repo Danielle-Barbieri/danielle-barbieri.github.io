@@ -42,12 +42,12 @@ url = "about/"
 home = true
 
 [[params.navlinks]]
-name = "OT Journey"
-url = "ot-journey/"
-
-[[params.navlinks]]
 name = "Tech"
 url = "tech/"
+
+[[params.navlinks]]
+name = "OT Journey"
+url = "ot-journey/"
 
 [params.social]
 # facebook = "full page or profile url in facebook"
