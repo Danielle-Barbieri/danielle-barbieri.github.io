@@ -10,7 +10,7 @@ style = "default"
 description = "Danielle Barbieri's Blog"
 copyright = "&copy;2024 Danielle Barbieri"
 sidebarAbout = [
-    "SITE UNDER CONSTRUCTIONS",
+    "SITE UNDER CONSTRUCTION",
 ]
 # Contact page
 # Since this template is static, the contact form uses www.formspree.io as a

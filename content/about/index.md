@@ -1,4 +1,4 @@
-![selfie](/images/selfie.png)
+![selfie](/about/images/selfie.png)
 
 Associate Clinical Product Manager with a unique background in occupational therapy.
 
