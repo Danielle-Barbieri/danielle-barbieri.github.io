@@ -45,9 +45,9 @@ home = true
 name = "OT Journey"
 url = "ot-journey/"
 
-# [[params.navlinks]]
-# name = "Tech"
-# url = "tech/"
+[[params.navlinks]]
+name = "Tech"
+url = "tech/"
 
 [params.social]
 # facebook = "full page or profile url in facebook"
