@@ -12,6 +12,7 @@ The following websites, which offer free and paid content, helped me learn:
 
 - Codecademy
 - flexboxfroggy
+- w3schools
 
 
 Click the link below to explore my project!

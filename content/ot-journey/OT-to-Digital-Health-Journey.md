@@ -38,14 +38,14 @@ This course was unable to help me translate my clinical skills into non-clinical
 
 This is the second program I joined, 3 months before landing my first internship. 
 
-This course is run by 2 occupational therapists who transitioned into tech, so it is truly geared towards clinicians. It is important for therapists who are looking for a coaching program. They understand your journey and your skills, which is why I recommend this program for therapists who are just getting started on their journey.
+This course is run by 2 occupational therapists who transitioned into tech, so it is truly geared towards clinicians. Since they come from a clinical background, they understand your journey and your skills. Collective Coaching can help you explore different career paths, translate your resume into non-clinical terms, grow your network, and speak to your skills in interviews. I recommend this program for therapists who are just getting started on their journey.
 
 This program directly connected me to my internship, which turned into my first digital health job.
 
 
 **Carly Agar Customer Success Intensive** 
 
-I joined this program after landing my first internship. This program has helped me improve my resume and land interviews. I beleieve the skills you learn about technical resumes and interviewing can be used for any job, not just customer success.
+I joined this program after landing my first internship. This program has helped me improve my resume and land interviews. I believe the skills Carly teaches about technical resumes and interviewing can be used for any job, not just customer success. I have even recommended her free resources and podcast to friends who are job searching in different careers.
 
 Though she is not a therapist, Carly has helped many PT's and OT’s land jobs in tech. I truly believe she understands our job description, and how to display the skills we already have to successfully land jobs.
 

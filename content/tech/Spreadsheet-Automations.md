@@ -11,7 +11,7 @@ Many small companies face the following:
 - Use of several forms that require manual inputs
 - Due to lack of automation, information may not be up to date or filled in
 
-To be more functional for a tech team, google sheets need to be:
+To be more functional for a tech team, these shared forms need to be:
 
 - More automated
 - More collaborative
