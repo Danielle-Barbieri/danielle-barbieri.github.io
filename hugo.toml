@@ -13,6 +13,9 @@ sidebarAbout = [
     "People oriented & tech-savvy professional who strives to create a positive change on outdated systems from the outside in",
 ]
 
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]
+
 # Contact page
 # Since this template is static, the contact form uses www.formspree.io as a
 # proxy. The form makes a POST request to their servers to send the actual
@@ -66,3 +69,10 @@ url = "ot-journey/"
 # gitlab = "full profile url in gitlab"
 # youtube = "full profile url in youtube"
 # whatsapp = "wa.me service link"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true
